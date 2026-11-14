@@ -1,0 +1,8 @@
+# gerados ao usar a app (dependem do ecrã e do tabuleiro de cada pessoa)
+config.json
+modelos.npz
+erros.log
+
+__pycache__/
+*.pyc
+.venv/
